@@ -21,8 +21,8 @@ SOURCES		:=	../common/source source
 DATA		:=	data
 INCLUDES	:=	../common/include include
 
-TITLE		:=	Reboot
-APPID		:=	REBOOT003
+TITLE		:=	Rebuild Database
+APPID		:=	REBDAT003
 CONTENTID	:=      UP0001-$(APPID)_00-0000000000000000
 PKGFILES	:=	$(CURDIR)/release
 
